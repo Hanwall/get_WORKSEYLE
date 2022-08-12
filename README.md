@@ -4,7 +4,7 @@
 
 
 
- [![](./logo.png)](./夜班工作流入门initwithmarkdown/index.md)
+ [![](./logo.jpg)](./夜班工作流入门initwithmarkdown/index.md)
 
 
 ##官方网站：<https://www.ypshengxian.com/#home>
