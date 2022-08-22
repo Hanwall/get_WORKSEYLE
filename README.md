@@ -4,4 +4,4 @@ test demo for markdown
 
 
 
-[getting start](./index.md)
+[getting start](./gettingstart/gettingstart.md)
