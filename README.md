@@ -1,7 +1,5 @@
+# 谊品生鲜夜班入门教程（参考版）
 
+<img src="./resources/coverpage.jpg"/>
 
-test demo for markdown
-
-
-
-[getting start](./gettingstart/gettingstart.md)
+[Get Started new version](./initwithmarkdown/gettingstart.md)
