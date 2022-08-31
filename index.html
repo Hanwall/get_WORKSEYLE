@@ -11,15 +11,42 @@
 <body>
 <script>
     window.$docsify = {
-    repo: 'docsifyjs/docsify',
-    el: '#main',	
-    formatUpdated: '{YYYY}/{MM}/{DD}',
-    overpage: true,//
-    onlyCover: true,//
+    	
+    name: "YPSX GIUDE",//sidebar
+    logo: '/resources/pic/common/logo3.png',
     
-    hideSidebar: true, //
-    topMargin: 90,
-    relativePath: true
+    repo: 'hanwall/HANWALL',//githubURL
+   	
+    formatUpdated: '{YYYY}/{MM}/{DD}',//
+    
+    coverpage: true,//_coverpage.md
+    onlyCover: true,//
+    
+    loadSidebar: true,// true  _sidebar.md 
+    maxLevel: 3,//
+		subMaxLevel: 2,//
+
+    auto2top: true,//
+    
+    homepage: 'index.md',// README.md 
+    
+    topMargin: 60,//  
+    
+    notFoundPage: true,//_404.md:
+    
+    mergeNavbar: false,//sidebar,  cantwork
+    
+    relativePath: false, // true 
+    
+    
+    //noCompileLinks: ['', ''],// docsify   cantwork
+    nameLink: {
+    '/':'/'
+    }
+    //alias: { // 
+    //  '/#/': '/#/'
+    //}
+     
     }
     
     
@@ -27,10 +54,8 @@
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
- 
- 
-  <div data-app id="main" >Please wait...</div>
-
-
+  
+  
+ 	<div id="app">loading</div>
 </body>
 </html>

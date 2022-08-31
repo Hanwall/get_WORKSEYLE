@@ -1,5 +1,5 @@
-# 谊品生鲜夜班入门教程（参考版）
+test demo for markdown & docsify
 
-<img src="./resources/coverpage.jpg"></img>
+getting start
 
-[Get Started new version](./initwithmarkdown/gettingstart.md)
+
