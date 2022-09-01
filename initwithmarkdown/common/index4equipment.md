@@ -1,44 +1,44 @@
 # 设备以及其它注意事项(仅供参考)
 
-[谊品生鲜冷柜使用注意事项](./others/谊品生鲜冷柜使用注意事项.md)
+[谊品生鲜冷柜使用注意事项](../../initwithmarkdown/equipment/谊品生鲜冷柜使用注意事项.md)
 
-[外机清洗](./others/外机清洗.md)
-
------
-
-[电闸柜使用](./others/电闸柜使用.md)
-
-[空调机使用](./others/空调机使用.md)
+[外机清洗](../../initwithmarkdown/equipment/外机清洗.md)
 
 -----
 
-[电子台秤使用](./others/电子台秤使用.md)
+[电闸柜使用](../../initwithmarkdown/equipment/电闸柜使用.md)
 
-[条码电子秤使用](./others/条码电子秤使用.md)
+[空调机使用](../../initwithmarkdown/equipment/空调机使用.md)
 
 -----
 
-[制冰机使用](./others/制冰机使用.md)
+[电子台秤使用](../../initwithmarkdown/equipment/电子台秤使用.md)
 
-[打氧机使用](./others/打氧机使用.md)
+[条码电子秤使用](../../initwithmarkdown/equipment/条码电子秤使用.md)
+
+-----
+
+[制冰机使用](../../initwithmarkdown/equipment/制冰机使用.md)
+
+[打氧机使用](../../initwithmarkdown/equipment/打氧机使用.md)
 
 ----
 
-[卧式冷冻柜使用](./others/卧式冷冻柜使用.md)
+[卧式冷冻柜使用](../../initwithmarkdown/equipment/卧式冷冻柜使用.md)
 
-[肉加工立式冰柜使用](./others/肉加工立式冰柜使用.md)
+[肉加工立式冰柜使用](../../initwithmarkdown/equipment/肉加工立式冰柜使用.md)
 
-[星星牌熟食展示柜使用](./others/星星牌熟食展示柜使用.md)
+[星星牌熟食展示柜使用](../../initwithmarkdown/equipment/星星牌熟食展示柜使用.md)
 
-[星星牌牛奶展示柜使用](./others/星星牌牛奶展示柜使用.md)
+[星星牌牛奶展示柜使用](../../initwithmarkdown/equipment/星星牌牛奶展示柜使用.md)
 
-[星星牌肉加工展示柜使用](./others/星星牌肉加工展示柜使用.md)
+[星星牌肉加工展示柜使用](../../initwithmarkdown/equipment/星星牌肉加工展示柜使用.md)
 
 -------
 
-[光猫路由器使用](./others/光猫路由器使用.md)
+[光猫路由器使用](../../initwithmarkdown/equipment/光猫路由器使用.md)
 
-[监控使用](./others/监控使用.md)
+[监控使用](../../initwithmarkdown/equipment/监控使用.md)
 
 -------
 
