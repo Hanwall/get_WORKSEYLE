@@ -5,7 +5,7 @@
 <p><a href="https://hanwall.github.io/WORKFLOWS4COMPANY/_book/index.html">开启手机版</a></p>
 
 
- [开启电脑版](./start.md)
+ [开启电脑版](./index.md)
 
 
 
