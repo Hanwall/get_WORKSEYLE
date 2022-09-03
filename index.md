@@ -10,7 +10,7 @@ https://www.ypshengxian.com/
 
 
 
-## 关于
+## 更新时间
 
-待添加
+{docsify-updated}
 

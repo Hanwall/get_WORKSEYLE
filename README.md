@@ -1,5 +1,16 @@
-test demo for markdown & docsify
+# 夜班工作流程入门（参考版）
 
-getting start
+![](./resources/pic/common/门店2.jpeg)
 
+## 官方网站：
+
+https://www.ypshengxian.com/
+
+## 目录
+
+
+
+## 更新时间
+
+{docsify-updated}
 
