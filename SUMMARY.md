@@ -1,5 +1,6 @@
 
-* [谊品生鲜夜班入门教程](README.md)
+
+* [谊品生鲜夜班入门教程](README.md ':disabled')
 
 - 企业文化与规章制度以及公司杭州地区人员架构
 	- [谊品生鲜发展历程](./initwithmarkdown/about/谊品生鲜发展历程.md)
