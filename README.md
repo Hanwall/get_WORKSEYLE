@@ -1,14 +1,10 @@
 
-# 夜班工作流程入门（参考版）<!-- {docsify-ignore-all} -->
+# 夜班工作流程入门（参考版-桌面版）<!-- {docsify-ignore-all} -->
 
-![](https://gitcode.net/GaloisField/WORKFLOWS4COMPANY/-/raw/master/resources/pic/about/门店1.jpeg)
+## 内容仅供参考
 
 ## 官方网站：
 
 https://www.ypshengxian.com/
 
-
-
-## 更新时间
-
-{docsify-updated}
+## Powered by  markdown & gitbook
