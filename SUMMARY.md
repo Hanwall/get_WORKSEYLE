@@ -24,8 +24,8 @@
 	- [其它物品物料检索](./initwithmarkdown/common/其它物品物料检索.md)
 
 - 设备以及其它注意事项（仅供参考)
-	- [收银机使用教程](./initwithmarkdown/common/收银机使用教程.md)
-	- [其它设备使用以及注意事项仅供参考](./initwithmarkdown/common/其它设备使用以及注意事项.md)
+	- [收银机使用教程](./initwithmarkdown/equipment/收银机使用教程.md)
+	- [其它设备使用以及注意事项仅供参考](./initwithmarkdown/equipment/其它设备使用以及注意事项.md)
 		- [谊品生鲜冷柜使用注意事项](./initwithmarkdown/equipment/谊品生鲜冷柜使用注意事项.md)
 		- [外机清洗](./initwithmarkdown/equipment/外机清洗.md)
 		- [电闸柜使用](./initwithmarkdown/equipment/电闸柜使用.md)
