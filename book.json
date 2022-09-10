@@ -28,7 +28,7 @@
         "pageNumbers": true,
         "paperSize": "a4"
     },
-    "plugins": ["-sharing","-font-settings","-highlight","-search"],
+    "plugins": ["-sharing","-font-settings","-highlight", "-font-settings","-search","-lunr","-livereload"],
     "pluginsConfig": {},
     "language": "zh-hans",
     "title": "夜班入门教程",

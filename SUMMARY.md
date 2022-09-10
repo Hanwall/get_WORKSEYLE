@@ -44,4 +44,5 @@
 		- [其它设备机器检索](./initwithmarkdown/equipment/其它设备检索.md)
 
 - 关于
-	- [关于](./initwithmarkdown/about/关于.md)
+
+	- [about](./initwithmarkdown/about/关于.md)
