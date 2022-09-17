@@ -45,4 +45,4 @@
 
 - 关于
 
-	- [about](./initwithmarkdown/about/关于.md)
+	- [关于](./initwithmarkdown/about/关于.md)

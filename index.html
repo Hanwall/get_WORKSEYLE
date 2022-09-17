@@ -9,18 +9,21 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="./plugin/vue.css">
 </head>
+<style>
 
+
+</style>
 <body>
+
 <script>
     window.$docsify = {
-    name: "YPSX GIUDE",//sidebar
+      name: "YPSX GIUDE",//sidebar
 
-    //logo: '/resources/pic/logo/logo.png',
+    logo: '/resources/pic/logo/logo.png',
 
     repo: 'hanwall/WORKFLOWS4COMPANY',//githubURL
 
     formatUpdated: '{YYYY}/{MM}/{DD}',//
-
     //coverpage: true,//_coverpage.md
     coverpage: 'coverpage',
 
@@ -54,7 +57,7 @@
       },
 
     footer: {
-      copy: '<span id="sitetime"></span><br/><span>Copyright &copy; 2022 - 至今</span>',
+      copy: '<span id="sitetime"></span><br/><span>Copyright &copy; 2022 - 至今  powered by markdown & docsify</span>',
       auth: '<span></span>',
       pre: '<hr/>',
       style: 'text-align: left;',
@@ -71,7 +74,8 @@
 
   <script src="./plugin/search.min.js"></script>
   <script src="./plugin/zoom-image.min.js"></script>
-
+  <!-- 添加页脚 -->
+  <script src="./plugin/docsify-footer-enh.min.js"></script>
 
   <!-- 回到顶部功能 -->
     <script src="./plugin/jquery.js"></script>
@@ -89,8 +93,8 @@
     </script>
 
 
-  <!-- 添加页脚 -->
-  <script src="./plugin/docsify-footer-enh.min.js"></script>
+
+
   <!-- 添加网站运行时间统计 -->
   <script language=javascript>
       function siteTime() {
@@ -123,12 +127,16 @@
          var diffHours = Math.floor((diff - (diffYears * 365 + diffDays) * days) / hours);
          var diffMinutes = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours) / minutes);
          var diffSeconds = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours - diffMinutes * minutes) / seconds);
-         document.getElementById("sitetime").innerHTML = " 本站已安全运行 " + diffYears + " 年 " + diffDays + " 天 " + diffHours + " 小时 " + diffMinutes + " 分 " + diffSeconds + " 秒 ";
+         var a = document.getElementById("sitetime");
+         if (a){
+         a.innerHTML = " 本站已安全运行 " + diffYears + " 年 " + diffDays + " 天 " + diffHours + " 小时 " + diffMinutes + " 分 " + diffSeconds + " 秒 ";
+         }
       }
       siteTime();
   </script>
   <!-- 访问量统计 -->
-  <script async src="./plugin/busuanzi.pure.mini.js"></script>
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  <!--<script async src="./plugin/busuanzi.pure.mini.js"></script>-->
   <div id="app">加载中</div>
 </body>
 </html>
