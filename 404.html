@@ -331,32 +331,39 @@ kbd {
 
 <body>
 
-<h2 id="toc_0">这是一個不存在的页面</h2>
+<h2 id="toc_0">这是一個不存在的页面11</h2>
 
 <p>对不起，您所访问的页面不存在或者已删除。</p>
 
 <p>预计将在约 <span id="timeout">10</span> 秒后返回首页。</p>
 
-<p>当然，你可以 <strong><a href="/">点这里</a></strong> 直接返回首页。</p>
+<p>当然，你可以 <strong><a href="#/WORKFLOWS4COMPANY">点这里</a></strong> 直接返回首页。</p>
 
-<p><img src="https://gitcode.net/GaloisField/WORKFLOWS4COMPANY/-/raw/master/resources/pic/logo/404_2.jpeg"></img>
+<p><img src="https://gitcode.net/GaloisField/WORKFLOWS4COMPANY/-/raw/master/resources/pic/logo/404_2.jpeg"></img></p>
+
 <script>
-let countTime = 10;</p>
 
-<p>function count() {</p>
+let countTime = 10;
 
-<p>document.getElementById(&#39;timeout&#39;).textContent = countTime;
+function count() {
+
+  document.getElementById('timeout').textContent = countTime;
   countTime -= 1;
   if(countTime === 0){
-    location.href = &#39;/&#39;;
+
+    if (window.location.href.match("WORKFLOWS4COMPANY") == null){
+        location.href = window.location.host;
+    }else{
+        location.href = window.location.host + '/#/WORKFLOWS4COMPANY';
+    }
   }
-  setTimeout(() =&gt; {
+  setTimeout(() => {
     count();
   }, 1000);
-}</p>
+}
 
-<p>count();
-</script></p>
+count();
+</script>
 
 
 
