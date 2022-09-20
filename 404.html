@@ -321,7 +321,7 @@ kbd {
 		word-wrap: break-word;
 	}
   body {
-    padding: 2cm; 
+    padding: 2cm;
   }
 }
 </style>
@@ -331,7 +331,7 @@ kbd {
 
 <body>
 
-<h2 id="toc_0">这是一個不存在的页面11</h2>
+<h2 id="toc_0">这是一個不存在的页面</h2>
 
 <p>对不起，您所访问的页面不存在或者已删除。</p>
 
@@ -352,9 +352,9 @@ function count() {
   if(countTime === 0){
 
     if (window.location.href.match("WORKFLOWS4COMPANY") == null){
-        location.href = window.location.host;
+        location.href ="/";
     }else{
-        location.href = window.location.host + '/#/WORKFLOWS4COMPANY';
+        location.href = '/#/WORKFLOWS4COMPANY';
     }
   }
   setTimeout(() => {
