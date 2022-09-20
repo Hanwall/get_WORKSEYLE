@@ -321,7 +321,7 @@ kbd {
 		word-wrap: break-word;
 	}
   body {
-    padding: 2cm;
+    padding: 2cm; 
   }
 }
 </style>
@@ -337,31 +337,33 @@ kbd {
 
 <p>预计将在约 <span id="timeout">10</span> 秒后返回首页。</p>
 
-<p>当然，你可以 <strong><a href="#/WORKFLOWS4COMPANY">点这里</a></strong> 直接返回首页。</p>
+<p>当然，你可以 <strong><a href="https://hanwall.github.io/WORKFLOWS4COMPANY/">点这里</a></strong> 直接返回首页。</p>
 
-<p><img src="https://gitcode.net/GaloisField/WORKFLOWS4COMPANY/-/raw/master/resources/pic/logo/404_2.jpeg"></img></p>
+<p><a href="%22https://gitcode.net/GaloisField/WORKFLOWS4COMPANY/-/raw/master/resources/pic/logo/404_3.jpeg%22"></a></p>
 
 <script>
-
 let countTime = 10;
-
+let url ;
 function count() {
-
   document.getElementById('timeout').textContent = countTime;
   countTime -= 1;
   if(countTime === 0){
-
-    if (window.location.href.match("WORKFLOWS4COMPANY") == null){
-        location.href ="/";
+    if (location.href.match("WORKFLOWS4COMPANY") == null){
+        url = location.protocol+"//"+location.host;
     }else{
-        location.href = '/#/WORKFLOWS4COMPANY';
+        url = location.protocol+"//"+location.host+'/WORKFLOWS4COMPANY/';
     }
-  }
+        location.href = url;
+}
   setTimeout(() => {
-    count();
+    if (countTime >=0){
+        count();
+    }else{
+        alert("跳转失败，请点击【点这里】重新访问")
+        countTime=0;
+    }
   }, 1000);
 }
-
 count();
 </script>
 
