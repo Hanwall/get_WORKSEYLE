@@ -3,7 +3,7 @@
 
 ## 内容仅供参考
 
-![](https://gitcode.net/GaloisField/WORKFLOWS4COMPANY/-/raw/master/resources/pic/about/未来2.png)
+![](./resources/pic/about/未来2.png)
 
 ## 官方网站：
 
