@@ -81,7 +81,7 @@
 
   - 豆制品价格表.xlsx[ -------          @点击下载](http://qiniu.hello-meta.xyz/official/豆制品价格表.xlsx)
 
-  - <p>杭州肉加工新版 PLU码(3).xlsx<a href="http://qiniu.hello-meta.xyz/files/official/文件下载-杭州肉加工新版 PLU码(3).xlsx">----------@点击下载</a></p>
+  - <p>杭州肉加工新版 PLU码(3).xlsx<a href="http://qiniu.hello-meta.xyz/official/文件下载-杭州肉加工新版 PLU码(3).xlsx">----------@点击下载</a></p>
 
 ----
 - 5
@@ -98,4 +98,4 @@
 
 - 6
 
-  - 谊品生鲜冷柜使用注意事项.pdf[ -------          @点击下载](http://qiniu.hello-meta.xyz/official/谊品生鲜冷柜使用注意事项.pdf)
+  - 谊品生鲜冷柜使用注意事项.pdf[ -------          @点击预览](http://qiniu.hello-meta.xyz/official/谊品生鲜冷柜使用注意事项.pdf)
