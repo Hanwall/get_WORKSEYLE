@@ -13,7 +13,7 @@
   - [🌐其它货物接货流程](./initwithmarkdown/common/其它货物接货流程.md)
   - [🌐工作中常见软件推荐](./initwithmarkdown/common/工作中常见软件推荐.md)
   - [🌐收银工作流程](./initwithmarkdown/common/收银工作流程.md)
-  - [🌐其它物品物料检索](./initwithmarkdown/common/其它物品物料检索.md)
+  - [🐹其它物品物料检索](./initwithmarkdown/common/其它物品物料检索.md)
 
 - [👉设备以及其它注意事项（仅供参考)](./initwithmarkdown/index/index4equipment.md ':disabled')
   - [🌐谊品生鲜冷柜使用注意事项](./initwithmarkdown/equipment/谊品生鲜冷柜使用注意事项.md)
@@ -32,7 +32,7 @@
   - [🌐星星牌肉加工展示柜使用](./initwithmarkdown/equipment/星星牌肉加工展示柜使用.md)
   - [🌐光猫路由器使用](./initwithmarkdown/equipment/光猫路由器使用.md)
   - [🌐监控使用](./initwithmarkdown/equipment/监控使用.md)
-  - [🌐其它设备机器检索](./initwithmarkdown/equipment/其它设备检索.md)
+  - [🐹其它设备机器检索](./initwithmarkdown/equipment/其它设备检索.md)
 
 - [👉全文件索引及下载](./initwithmarkdown/index/index4allfiles.md)
 
