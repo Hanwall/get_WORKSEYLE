@@ -1,4 +1,4 @@
-## 设备以及其它注意事项（仅供参考) <!-- {docsify-ignore-all} -->
+## 😎设备文件索引 <!-- {docsify-ignore-all} -->
 
 [谊品生鲜冷柜使用注意事项](../equipment/谊品生鲜冷柜使用注意事项.md)
 
