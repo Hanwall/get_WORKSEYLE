@@ -34,6 +34,6 @@
   - [🌐监控使用](./initwithmarkdown/equipment/监控使用.md)
   - [🐹其它设备机器检索](./initwithmarkdown/equipment/其它设备检索.md)
 
-- [👉全文件索引及下载](./initwithmarkdown/index/index4allfiles.md)
+- [👉文件和视频索引](./initwithmarkdown/index/index4allfiles.md)
 
 - [👉关于](./initwithmarkdown/about/关于.md)
