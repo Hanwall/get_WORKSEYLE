@@ -1,0 +1,2 @@
+# get_WORKSEYLE
+HOW TO DO IN WORK
