@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>GETTING START</title>
+  <title>谊品生鲜夜班教程</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="referrer" content="no-referrer">
   <meta name="description" content="Description">
@@ -17,35 +17,31 @@
 
 <script>
     window.$docsify = {
-    name: "YPSX GIUDE",//sidebar
-
+    name: "谊品生鲜夜班教程",//不能为空不能为nil
     logo: '/resources/pic/logo/logo.png',
-
     repo: '',//githubURL
 
     formatUpdated: '{YYYY}/{MM}/{DD}',//
-    //coverpage: true,//_coverpage.md
-    coverpage: 'coverpage',
+   
+    coverpage: 'coverpage',//
+    onlyCover: true,//
 
-    //onlyCover: true,//
-
-    loadSidebar: 'SUMMARY.md',
+    loadSidebar: 'summary.md',//
     maxLevel: 3,//
 		subMaxLevel: 2,//
 
     auto2top: true,//
 
-    homepage: 'INDEX.md',// README.md
+    homepage: 'index.md',// README.md
 
     topMargin: 60,//
-
-    //notFoundPage: true,//_404.md:
-    notFoundPage: '404.md',
-    mergeNavbar: false,//sidebar,  cantwork
+    
+    notFoundPage: '404.md',//
+    mergeNavbar: false,//sidebar
 
     relativePath: false,// true
 
-    executeScript: true,
+    executeScript: true,//
 
     search: {
         paths: 'auto',
@@ -54,27 +50,23 @@
         // Headline depth, 1 - 6
         depth: 6,
         maxAge: 86400000 // 过期时间，单位毫秒，默认一天
-      },
+      },//搜索插件
 
     footer: {
       copy:
       '<a href="https://github.com/Hanwall/"><img width=30px height=30px align="AbsMiddle" src="./resources/pic/logo/loading.gif"/></a><br/><span id="sitetime"></span><br/><span>BIG TANKS FOR:<a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral"><br/><img width="60px" height="30px" align="AbsMiddle" src="./resources/pic/logo/upyun_logos/又拍云_logo5.png"/></a></span>',
       auth: ' ',
       pre: '<hr/>',
-      style: 'background-color:#90b966',
-      }
+      style: 'background-color:#ffffff',
+      }//页脚插件
     }
-
-
-
-
   </script>
 
   <!-- Docsify v4 -->
   <script src="./plugin/docsify.min.js"></script>
-
   <script src="./plugin/search.min.js"></script>
   <script src="./plugin/zoom-image.min.js"></script>
+
   <!-- 添加页脚 -->
   <script src="./plugin/docsify-footer-enh.min.js"></script>
 
@@ -92,9 +84,6 @@
         });
       });
     </script>
-
-
-
 
   <!-- 添加网站运行时间统计 -->
   <script language=javascript>
@@ -135,9 +124,10 @@
       }
       siteTime();
   </script>
+
   <!-- 访问量统计 -->
   <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-  <!--<script async src="./plugin/busuanzi.pure.mini.js"></script>-->
+  
   <div id="app">加载中</div>
 </body>
 </html>
