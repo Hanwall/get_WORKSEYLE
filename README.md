@@ -11,7 +11,15 @@ ON GITPAGES
 runtime environment
 
 
-brew install node
+brew install node //https://nodejs.org/zh-cn/download/releases
+
+
+npm install gitbook-cli -g  //https://www.gitbook.com/
+
+
+npm i docsify-cli -g  //https://docsify.js.org/#/
+
+
 
 
 then run in command line
