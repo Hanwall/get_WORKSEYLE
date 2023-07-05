@@ -28,4 +28,4 @@ then run in command line
 docsify serve to show the page
 
 
-gitbook serve to bulid the html files in _book floder_
+gitbook serve to bulid the html files in _book floder
