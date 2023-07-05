@@ -13,6 +13,6 @@
 
 
 
-[进入电脑版](./INDEX.md)
+[进入电脑版](./index.md)
 
 ![](./resources/pic/logo/coverpage.jpg)
