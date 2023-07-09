@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 A PROJECT WITH 
 
 MARKDOWN&
@@ -29,3 +30,7 @@ docsify serve to show the page
 
 
 gitbook serve to bulid the html files in _book floder
+=======
+# get_WORKSEYLE
+HOW TO DO IN WORK
+>>>>>>> 851f4f0a5b2db0b2b4a319677d382298f697e13c
