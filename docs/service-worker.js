@@ -27,43 +27,43 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "1f391f7151cfed40d03eb4cacf11fb87"
+    "revision": "5dba9f8dc3a5fdc494c8d8628b1ce7af"
   },
   {
-    "url": "assets/css/0.styles.89f15ef5.css",
-    "revision": "d9dfe546742b81bc9b27b2ff7f173c56"
+    "url": "assets/css/0.styles.2cc03edf.css",
+    "revision": "fe2a7bd4a3c84ec47741d3fd83486478"
   },
   {
     "url": "assets/img/search.83621669.svg",
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.04b5ca56.js",
-    "revision": "0e2e733381587d65aa57a0d13a2a19a9"
+    "url": "assets/js/10.a3339415.js",
+    "revision": "f39fa405235fd0cbd6ebd7748b3efd9f"
   },
   {
     "url": "assets/js/11.79219974.js",
     "revision": "9b5bae4b5be9de195e9dca644a8f8940"
   },
   {
-    "url": "assets/js/12.4c16a965.js",
-    "revision": "c1f540f5f4d5983d6b2622e55a65c1bb"
+    "url": "assets/js/12.99b2ac04.js",
+    "revision": "0f7e75db964bca74fbddc23d1e269fa3"
   },
   {
     "url": "assets/js/13.e204aae3.js",
     "revision": "bf74e21acb68223fe5c720cdf8bd6599"
   },
   {
-    "url": "assets/js/14.5c4d47b3.js",
-    "revision": "fe22da8c91012439e3a3193dca7273ed"
+    "url": "assets/js/14.3c9bded7.js",
+    "revision": "c32eb05cd01fdcfadfed049c37f04eaf"
   },
   {
-    "url": "assets/js/15.7bf1e5d2.js",
-    "revision": "eda50cecc30e52ca5e6085759ea1d066"
+    "url": "assets/js/15.0c2fced5.js",
+    "revision": "bb9e392bbd3fd4e933778d27d2df2074"
   },
   {
-    "url": "assets/js/16.7251ec52.js",
-    "revision": "4df3aeb509ea68d296daf20dbb6b75d7"
+    "url": "assets/js/16.3a3c0654.js",
+    "revision": "457b3d2d41ccaf469bddf7762fab5ea4"
   },
   {
     "url": "assets/js/17.40d76a76.js",
@@ -82,12 +82,12 @@ self.__precacheManifest = [
     "revision": "85e06fa1c0eb4e016d4c7e75a8753dac"
   },
   {
-    "url": "assets/js/20.e86ae71a.js",
-    "revision": "0cf0d65ac5df856c88fcae742d48b2a0"
+    "url": "assets/js/20.b5fcddf6.js",
+    "revision": "dff4daa696424ebdc32d4efed9972c56"
   },
   {
-    "url": "assets/js/21.83fcfd0b.js",
-    "revision": "1ef9827112c30878b39b4f2b6ae82d25"
+    "url": "assets/js/21.80e5eb1d.js",
+    "revision": "c34e6e7a29976c63fff475d935fd0d1f"
   },
   {
     "url": "assets/js/22.2fe46aa8.js",
@@ -98,72 +98,72 @@ self.__precacheManifest = [
     "revision": "5fd1458cd83c2c2e27241e5ebd3e02c5"
   },
   {
-    "url": "assets/js/24.ab85b677.js",
-    "revision": "afb30772f82320544c9105f8e098b5c8"
+    "url": "assets/js/24.9ac7b620.js",
+    "revision": "430d284558ddd544ac5d385907c80491"
   },
   {
     "url": "assets/js/25.eeefd2d6.js",
     "revision": "76cb3d1dd4891a2dbe9d88a3f72db530"
   },
   {
-    "url": "assets/js/26.f36d62b0.js",
-    "revision": "b2aaaa1c894cc4903fd7986f42d44cc1"
+    "url": "assets/js/26.bab2c4c3.js",
+    "revision": "ee76883a62e059a1a49bbc3477ef8f7d"
   },
   {
-    "url": "assets/js/27.dc78c2e1.js",
-    "revision": "3ecfaf984144fd1de6f869f6dedad039"
+    "url": "assets/js/27.1c688890.js",
+    "revision": "f6f76935dac45c1ec73cf4281c0bfbc4"
   },
   {
-    "url": "assets/js/28.963c6d5f.js",
-    "revision": "4a37f7ea4b33ae7b823064741585a4c3"
+    "url": "assets/js/28.0d5a2046.js",
+    "revision": "b98a1d35de973d58ffbaf9084232b42c"
   },
   {
-    "url": "assets/js/29.76963f96.js",
-    "revision": "3bf9aceb409d1f7e3aeda88323ad1972"
+    "url": "assets/js/29.dad5c591.js",
+    "revision": "558ef99c0d8940707c1b800f71ea126f"
   },
   {
     "url": "assets/js/3.e26cc02d.js",
     "revision": "866e9aa8ae82dbf73e4e708346b5c9d4"
   },
   {
-    "url": "assets/js/30.9930860a.js",
-    "revision": "b3ee8a5f43a542aa822122cbfd180049"
+    "url": "assets/js/30.99ffe01f.js",
+    "revision": "2383a805a704a4e68959040d2369a91c"
   },
   {
-    "url": "assets/js/31.943762f0.js",
-    "revision": "6718a0f785bd003ea6c80010fb184187"
+    "url": "assets/js/31.628d39f2.js",
+    "revision": "2aadd90988a2413707bb83b1c2f8d31a"
   },
   {
-    "url": "assets/js/32.723dcaff.js",
-    "revision": "5547a2c97770f78ab3050fb3d4debf70"
+    "url": "assets/js/32.b6ae3b73.js",
+    "revision": "df23c6e1adf6605a221dfd2607d75c0f"
   },
   {
-    "url": "assets/js/33.77287a93.js",
-    "revision": "8d66def97f75d0e989d53a865a841f52"
+    "url": "assets/js/33.af07802f.js",
+    "revision": "1baa6c9981db7858d3bf47a052121739"
   },
   {
     "url": "assets/js/34.4478642b.js",
     "revision": "da27682ea6251e839ea5c38c6c14c958"
   },
   {
-    "url": "assets/js/35.77358302.js",
-    "revision": "8d80898a5e5ff055831d28466975af1e"
+    "url": "assets/js/35.8be11264.js",
+    "revision": "7f07a4be935cb9c5e5e2cda6c3e1770d"
   },
   {
     "url": "assets/js/36.8a384376.js",
     "revision": "b788f889651aba8f21374d8a33cee9c6"
   },
   {
-    "url": "assets/js/37.b7e30c7e.js",
-    "revision": "8b130ff896dfb91f48c32b21b0fa24e4"
+    "url": "assets/js/37.a6f99499.js",
+    "revision": "18050e77746d10fd73183d9045518f22"
   },
   {
-    "url": "assets/js/38.160874bc.js",
-    "revision": "0574d7bd32e582e4653cb906a7a1b797"
+    "url": "assets/js/38.29e0d8b9.js",
+    "revision": "d08c03efab34fbecbd26c4b53f1b0118"
   },
   {
-    "url": "assets/js/39.d22395ac.js",
-    "revision": "63d4c0fd247b3e5a241a94682b80b260"
+    "url": "assets/js/39.94b6ff11.js",
+    "revision": "960b84ebf01fb72ccb951eaa3c8ee990"
   },
   {
     "url": "assets/js/4.207c7a8e.js",
@@ -230,168 +230,168 @@ self.__precacheManifest = [
     "revision": "581175a23896162d2ce766a00ce92e77"
   },
   {
-    "url": "assets/js/app.63cec833.js",
-    "revision": "f4790f1dea9c4dd66d172b11931028a6"
+    "url": "assets/js/app.21582635.js",
+    "revision": "d604e8555c897b03e51cebdde3f27a63"
   },
   {
     "url": "index.html",
-    "revision": "0d7f3d5dbbe6ca0da1fe89802469513e"
+    "revision": "c6c1b63a089688a646638b15b6f52d1a"
   },
   {
     "url": "initwithmarkdown/ryt/index.html",
-    "revision": "e25294dde939989e87bde816d97ad701"
+    "revision": "645f8851c03952373a386cf659bbb380"
   },
   {
     "url": "initwithmarkdown/ypsx/about/企业文化与规章制度.html",
-    "revision": "6aae20ae9f5c9f442142ed13ce6762ed"
+    "revision": "a395977100ce14d8065ad2536a47d37f"
   },
   {
     "url": "initwithmarkdown/ypsx/about/公司杭州地区人员架构.html",
-    "revision": "136484d41ae367ff576852a71aedc2a6"
+    "revision": "db47253f8bfb300ef0f49be2165da1bf"
   },
   {
     "url": "initwithmarkdown/ypsx/about/关于.html",
-    "revision": "4893786f6240a3f80faaed205a8deb0b"
+    "revision": "90ea2db64874df16fa2588f3a2477b21"
   },
   {
     "url": "initwithmarkdown/ypsx/about/谊品生鲜发展历程.html",
-    "revision": "886a3fc327d8f08d1847fbc15b488517"
+    "revision": "1c4565e06d832920b666d9a49c188b87"
   },
   {
     "url": "initwithmarkdown/ypsx/common/其它物品物料检索.html",
-    "revision": "7ff73edaaf5fdc22018722ab2025ab2b"
+    "revision": "b45997b53a08fb5c55af04c1742cabcf"
   },
   {
     "url": "initwithmarkdown/ypsx/common/其它货物接货流程.html",
-    "revision": "0881de8640a8f569fb4dc3b493f93204"
+    "revision": "f7233cd02e22efb50c2285204cdac05e"
   },
   {
     "url": "initwithmarkdown/ypsx/common/夜班工作时间工资和工作流程.html",
-    "revision": "d553cbb6eea105acb610a92cb9232bcf"
+    "revision": "843b2ef3d6aafadfd1c7913641b1e2c7"
   },
   {
     "url": "initwithmarkdown/ypsx/common/夜班店长工作流程-参考.html",
-    "revision": "b92af39beba5f075102d39fbe7d013c7"
+    "revision": "cb74f5666f4876594573b9285ce46d19"
   },
   {
     "url": "initwithmarkdown/ypsx/common/夜班店长工作流程-新版.html",
-    "revision": "8d63aa034951cf88392495c0ba2bbb61"
+    "revision": "adc16453e1ff117888c6ef60b2d6ac2c"
   },
   {
     "url": "initwithmarkdown/ypsx/common/夜班店长工作流程-旧版.html",
-    "revision": "9c25dd54a72b858a4e1e4101d21d12db"
+    "revision": "53faeb014c25657666b01bccaa716a38"
   },
   {
     "url": "initwithmarkdown/ypsx/common/工作中常见软件推荐.html",
-    "revision": "d6a8e7ba6310bb4588721c031c8f4f9b"
+    "revision": "c62c3f5dbc6ee667cbf4720e065aed0f"
   },
   {
     "url": "initwithmarkdown/ypsx/common/收银工作流程.html",
-    "revision": "78a808e03cc623acac9648bad95b1d2c"
+    "revision": "efb97c498328f125f4f9b8fb13b766b5"
   },
   {
     "url": "initwithmarkdown/ypsx/common/水产其它注意事项.html",
-    "revision": "a781f5717ff142f4e4f4c438091e3247"
+    "revision": "ae0187a2e67d46f232edffede237316c"
   },
   {
     "url": "initwithmarkdown/ypsx/common/肉加工其它注意事项.html",
-    "revision": "aab6a63a54eb38d25855b8311cba2449"
+    "revision": "d7e3df5482903c13410c8351d30b67e1"
   },
   {
     "url": "initwithmarkdown/ypsx/common/蔬菜保鲜手册.html",
-    "revision": "2ce4d4ce6ce4014e708c2560902d7ef2"
+    "revision": "405d141dc37b347f2bf9f1baac0db875"
   },
   {
     "url": "initwithmarkdown/ypsx/common/蔬菜其它注意事项.html",
-    "revision": "a83da161752dc237be516119bfb63a86"
+    "revision": "69f44ea591c288308c0672a4e9735e4d"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/光猫路由器使用.html",
-    "revision": "5409baf7ad3c63c57a0cf8270af3a254"
+    "revision": "58f0c71076617aa3ea174087418242ff"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/其它设备检索.html",
-    "revision": "7acaa868191b61edda20f644f8d31139"
+    "revision": "abb43edd1b7de9b6fe90ee58a3f98d88"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/制冰机使用.html",
-    "revision": "6565e526ec688b1eeb97437ef8819b52"
+    "revision": "480f0afe7b8edafde461f228e1bc19a6"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/卧式冷冻柜使用.html",
-    "revision": "56d1a41213d6a181e5ab5736da02a71f"
+    "revision": "437f611fa7212aa28bfe5cc31ee8a36f"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/外机清洗.html",
-    "revision": "62149b253314a36ccd26ba78c248cd61"
+    "revision": "fcefc6a06d7d9eee8ca7b46b77f15639"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/打氧机使用.html",
-    "revision": "6bb1b7edc0f85f0ae2614bdd3fc7c2cb"
+    "revision": "31511a446c641f8e2c0d81578c090ae7"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/收银机使用教程.html",
-    "revision": "7878c936953aa875453029d635b6b27a"
+    "revision": "af96bcdefc5e0a0b8a478a009f462416"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/星星牌低温冻品展示柜使用.html",
-    "revision": "4d345c130cef51d84b41d0f519f50019"
+    "revision": "9ed82a14bc8d3c5bdd368dff13b513b8"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/星星牌低温牛奶展示柜使用.html",
-    "revision": "32a385a97ccebf537b8fb0ae8f20539b"
+    "revision": "17ba3f13b023453a03b826c475e22a3d"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/星星牌肉加工展示柜使用.html",
-    "revision": "b62fa9972c0a14ba56db30f983f482af"
+    "revision": "cd67bd1ba64bd2d296635e7362290122"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/条码电子秤使用.html",
-    "revision": "88d7d644e11dd5403591e241e9c50080"
+    "revision": "a4ee9498194e7a8eaa54fd5e932ef114"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/电子台秤使用.html",
-    "revision": "e7f4f776772a87ca6228166bac89480d"
+    "revision": "f3b61c29af416342fd3695e02ee20156"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/电闸柜使用.html",
-    "revision": "b2a60c0c7ae412c1216c8f7ebae9b53f"
+    "revision": "4cdba993a0ff28b4aec06ae845a3084a"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/监控使用.html",
-    "revision": "0f39ee1626a7ed96b8566474224d091b"
+    "revision": "1012cb1560ea69d885a4bab210aabf76"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/空调机使用.html",
-    "revision": "f1896f71e60aae64e9261354109048be"
+    "revision": "8b455cbff2846399cc639ab8c3efb096"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/肉加工立式冰柜使用.html",
-    "revision": "da997d017ea40d29a155592747c3c3a1"
+    "revision": "1f59d4c1ea239c8936b61f08f7608df2"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/谊品生鲜冷柜使用注意事项.html",
-    "revision": "733840d30e0483baaea02b60fc7c2f55"
+    "revision": "71a5636f11098ce53a808e807a968ad1"
   },
   {
     "url": "initwithmarkdown/ypsx/index.html",
-    "revision": "eced6869509827d33b7c2a9d4df67a84"
+    "revision": "59d227867d19619b5ef360650e5e4b6b"
   },
   {
     "url": "initwithmarkdown/ypsx/indexall/index4allfiles.html",
-    "revision": "e8d2b536903eadbec4dbdd6785524dba"
+    "revision": "9693f2326b551db42ae3c8e6e4b700e8"
   },
   {
     "url": "initwithmarkdown/ypsx/indexall/index4common.html",
-    "revision": "baa57b29b181bf8e2ff6e4b1906c6850"
+    "revision": "0bf5fe6003d9f90249cefe4c475faebe"
   },
   {
     "url": "initwithmarkdown/ypsx/indexall/index4equipment.html",
-    "revision": "72b1de705703997a58af1432c7e01178"
+    "revision": "657ab17354cb612d6adff07237fbe895"
   },
   {
     "url": "initwithmarkdown/zhsm/index.html",
-    "revision": "a89652fa2b8024e599f2a8496a01b501"
+    "revision": "00d0e39cc148c5c2dc89213a1c4c15cd"
   },
   {
     "url": "logo/index.jpg",

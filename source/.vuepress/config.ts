@@ -10,7 +10,7 @@ module.exports = {
   description: 'Just playing around', 
   
   //如果你的网站会被部署到一个非根路径，你将需要在 .vuepress/config.js 中设置 base
-  base: '/get_KNOWLEDGE/',
+  base: '/get_WORKSTYLE/',
   
   //Markdown 文件的 headers (标题 & 小标题) 会在准备阶段被提取出来，并存储在 this.$page.headers 中。默认情况下，VuePress 会提取 h2 和 h3 标题。你可以通过这个选项来修改提取出的标题级别。  
   Markdown: {
@@ -29,7 +29,7 @@ module.exports = {
   themeConfig: {
     
     // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
-    repo: 'https://github.com/Hanwall/get_KNOWLEDGE',
+    repo: 'https://github.com/Hanwall/get_WORKSTYLE',
     repoLabel: '查看源码',
     // 假如你的文档仓库和项目本身不在一个仓库：
     //docsRepo: 'vuejs/vuepress',
