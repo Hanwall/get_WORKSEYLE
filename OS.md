@@ -36,9 +36,14 @@ yarn global add vuepress # 或者：npm install -g vuepress
 yarn add -D @vuepress/plugin-search  # OR npm install -D @vuepress/plugin-search 
 
 
+-----
+
+或者npm installl 或者 yarn install
+
+
 >  config vuepress
 
-yarn install
+
 
 > run the workspace
 
