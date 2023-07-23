@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "docs:dev": "vuepress dev source",
-    "docs:build": "vuepress build source"
+    "docs:dev": "vuepress dev src",
+    "docs:build": "vuepress build src"
   },
   "dependencies": {
     "@vssue/api-github-v3": "^1.4.7",

@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "b3f17239484a767eedb888eaca681dda"
+    "revision": "ddd820df48df42b120d1b9b29d79b8b0"
   },
   {
     "url": "assets/css/0.styles.2cc03edf.css",
@@ -226,12 +226,12 @@ self.__precacheManifest = [
     "revision": "b3019a48f30990f0c2a38fbb70eccc99"
   },
   {
-    "url": "assets/js/13.27614be8.js",
-    "revision": "1ef8c958c3bee335892cbd1ac894da72"
+    "url": "assets/js/13.88eb8f7f.js",
+    "revision": "df760b0b3a198e24d499cafc76f78824"
   },
   {
-    "url": "assets/js/14.8709d6f9.js",
-    "revision": "2b22220f1ea2924c820251e287e74be3"
+    "url": "assets/js/14.69079ffa.js",
+    "revision": "de19a28c0cfdd5f9ef43bc82ea5362fb"
   },
   {
     "url": "assets/js/15.f09825ea.js",
@@ -386,8 +386,8 @@ self.__precacheManifest = [
     "revision": "be499dd495d143d1154f89cbaac06440"
   },
   {
-    "url": "assets/js/5.2768d979.js",
-    "revision": "cd98d7af5db9abfe5960bf575e4d407f"
+    "url": "assets/js/5.fce80d7c.js",
+    "revision": "b3950486ba964a7b689ea20e7022fe96"
   },
   {
     "url": "assets/js/50.54faa419.js",
@@ -450,8 +450,8 @@ self.__precacheManifest = [
     "revision": "3c010275217d24df4eccdf2c8838c266"
   },
   {
-    "url": "assets/js/64.e0637803.js",
-    "revision": "18a1cadb057715a7e583833c6e882dd5"
+    "url": "assets/js/64.3c0a86bf.js",
+    "revision": "0445c5fefd5db88c4eee2cb197b4c45b"
   },
   {
     "url": "assets/js/65.e46605a9.js",
@@ -470,168 +470,168 @@ self.__precacheManifest = [
     "revision": "f1e3a5af5c553cf289daf9fa087ade08"
   },
   {
-    "url": "assets/js/app.b26e0e66.js",
-    "revision": "edc6a7409e8f1efe5e249ac4dadadaa6"
+    "url": "assets/js/app.5bb94397.js",
+    "revision": "3ec2d359709b75c87548acf2269c2cee"
   },
   {
     "url": "index.html",
-    "revision": "b784f16cc9054a3c3e6340df8b4a06ef"
+    "revision": "462ba0a99323c0aca969624c3497f207"
   },
   {
     "url": "initwithmarkdown/ryt/index.html",
-    "revision": "bdf27a6e556c9ff87c4b60a3fc51523b"
+    "revision": "58d4e219b11296a130076d30bd008bac"
   },
   {
     "url": "initwithmarkdown/ypsx/about/企业文化与规章制度.html",
-    "revision": "a3711d52eafa78aedf80d0ec5c5c74e3"
+    "revision": "baa61483a5f4f26f0440fb854b5f9a83"
   },
   {
     "url": "initwithmarkdown/ypsx/about/公司杭州地区人员架构.html",
-    "revision": "891885018020d6251954fd7cc5b5209e"
+    "revision": "d7c4d05dcd33163d4e5fb98d60e14aa0"
   },
   {
     "url": "initwithmarkdown/ypsx/about/关于.html",
-    "revision": "a2e8cb3368d284899bc024fc9d12cf40"
+    "revision": "3af97030c4448cc36e772e1d6dc39b95"
   },
   {
     "url": "initwithmarkdown/ypsx/about/谊品生鲜发展历程.html",
-    "revision": "8f14b6c852511da234b8b2958dc9e6ef"
+    "revision": "f8c054b543f736f772a75637c2c66b70"
   },
   {
     "url": "initwithmarkdown/ypsx/common/其它物品物料检索.html",
-    "revision": "4ab342ed5b7b96f0d8ac20062c3f1911"
+    "revision": "fa90f965978e42135abb63e965a75de4"
   },
   {
     "url": "initwithmarkdown/ypsx/common/其它货物接货流程.html",
-    "revision": "420cfec9b9bf8b78e164076c5301aba6"
+    "revision": "6344b721b369625879af34967e020a45"
   },
   {
     "url": "initwithmarkdown/ypsx/common/夜班工作时间工资和工作流程.html",
-    "revision": "c5063ad0e9a14d91291caa9492131ecf"
+    "revision": "5b3438d766106d43483503ae0be5dfbd"
   },
   {
     "url": "initwithmarkdown/ypsx/common/夜班店长工作流程-参考.html",
-    "revision": "54f4ebbe1fb2e991c64d4409e1768a3f"
+    "revision": "edf8e992168796f48b36e5e8e243055e"
   },
   {
     "url": "initwithmarkdown/ypsx/common/夜班店长工作流程-新版.html",
-    "revision": "9921e5f7d25a0aaaab0440d015f2f73e"
+    "revision": "3ea7ae31f27d249ae67814ae15728335"
   },
   {
     "url": "initwithmarkdown/ypsx/common/夜班店长工作流程-旧版.html",
-    "revision": "2da4b389714635a6b409badaa3c7a8ac"
+    "revision": "aa3c5cea114137441221469ed1e99e64"
   },
   {
     "url": "initwithmarkdown/ypsx/common/工作中常见软件推荐.html",
-    "revision": "feb61a07ed7fe35948fadd4fc3dbab49"
+    "revision": "04ac017033959261b2c43a18082624ca"
   },
   {
     "url": "initwithmarkdown/ypsx/common/收银工作流程.html",
-    "revision": "dd11d804b71c80c52d177ceab7cda3f1"
+    "revision": "8354f71dd20a49ee2c3cf562db298ea1"
   },
   {
     "url": "initwithmarkdown/ypsx/common/水产其它注意事项.html",
-    "revision": "86e71d2508a52d081ceda3c38e0e38de"
+    "revision": "a6877c54f3ec9b4f73ddb3aa68cd966f"
   },
   {
     "url": "initwithmarkdown/ypsx/common/肉加工其它注意事项.html",
-    "revision": "dbcac9dfc8d8fd1a7f9bdb7bc707deca"
+    "revision": "03b211f5055e50dbfa2ce80619c092af"
   },
   {
     "url": "initwithmarkdown/ypsx/common/蔬菜保鲜手册.html",
-    "revision": "5d9b86246e621bbfb308b29b3596942c"
+    "revision": "e244eed91f71f17da8b1ca7482d2430d"
   },
   {
     "url": "initwithmarkdown/ypsx/common/蔬菜其它注意事项.html",
-    "revision": "41336bb6582533d8763c3f6ba410a5ad"
+    "revision": "0fd427629ed2d9bb6fd5eeda93eb693b"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/光猫路由器使用.html",
-    "revision": "77d345992b6e229132c3df9096a237b1"
+    "revision": "df57acf620f8e8aee00c1513e877f645"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/其它设备检索.html",
-    "revision": "8804a02a0b6cef35da27a49514467f16"
+    "revision": "00de941a47caca834158d2bb96cce2ab"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/制冰机使用.html",
-    "revision": "6c5d5b16c1e8c52a9c9fed55850accfd"
+    "revision": "a9fb1c3cc772446656d7f82d160f7510"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/卧式冷冻柜使用.html",
-    "revision": "0feb20b0b08441f629b04b4e2105b758"
+    "revision": "1c46aab0298f081892830489f8ea6c45"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/外机清洗.html",
-    "revision": "8ada80630652442d62b1d338bac7784d"
+    "revision": "4e97241b9f687fb063ad8a068ff564ef"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/打氧机使用.html",
-    "revision": "01bc1e526d6ad27d89a9c631043595d8"
+    "revision": "834d495124006daa456959e4746288bb"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/收银机使用教程.html",
-    "revision": "62bcfa0b64e767aab464e8067265f14f"
+    "revision": "fe34021d55f9d7446690415abd0083de"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/星星牌低温冻品展示柜使用.html",
-    "revision": "2b29b329c85332eeff6df8b47b3cb81e"
+    "revision": "7fff897d65b815c40e724bff55d623f3"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/星星牌低温牛奶展示柜使用.html",
-    "revision": "ede75a8789cabaf9ad34208bab2ade45"
+    "revision": "23639559a2266b8003b989be126e528a"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/星星牌肉加工展示柜使用.html",
-    "revision": "2f57df2937627b555e3463db13e9492f"
+    "revision": "61c26007e00cd5bb1c6fc00e0285fd93"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/条码电子秤使用.html",
-    "revision": "19075af5f9276af5f577ad84b30e7c4f"
+    "revision": "4b25fb6eaad6e63a33c68b3cf7eb49bd"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/电子台秤使用.html",
-    "revision": "72f69ff90c2aa7afdb4b0bdae47f173e"
+    "revision": "92681a9621698a1e0376560f827eba0b"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/电闸柜使用.html",
-    "revision": "5a428503491d991f0d5d1ce9a17eb61f"
+    "revision": "efa1bed691698aba8beb109f3da5455a"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/监控使用.html",
-    "revision": "19b2c2a34907ef017bb1a5c386116414"
+    "revision": "a64a6903d09ba6471c7b8f4eb77a82ff"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/空调机使用.html",
-    "revision": "258211984b11df5b7d0660b14f81a47a"
+    "revision": "b6e4a3368d2efc53fe830adb443b1921"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/肉加工立式冰柜使用.html",
-    "revision": "d5fe3c9078901465fcbed6932c0433f7"
+    "revision": "cd9f244c9b246cb2d239b70355a55a65"
   },
   {
     "url": "initwithmarkdown/ypsx/equipment/谊品生鲜冷柜使用注意事项.html",
-    "revision": "ae36a30eef161a8fd1ff29ffa1a090a9"
+    "revision": "3ac45cec0e3fcf4ca4bb3f2647515071"
   },
   {
     "url": "initwithmarkdown/ypsx/index.html",
-    "revision": "2683d5ca5f452b655100162ab9695731"
+    "revision": "edef4fbeaf4bf743c24d3e57b72787d8"
   },
   {
     "url": "initwithmarkdown/ypsx/indexall/index4allfiles.html",
-    "revision": "e4cc497dcbe4d71c5909b08aeb8701b5"
+    "revision": "470bf0ae5e3ea91430db271dc1066068"
   },
   {
     "url": "initwithmarkdown/ypsx/indexall/index4common.html",
-    "revision": "38ec5a96b3208cf8dab189bdbc03ecb3"
+    "revision": "5de7e8da5e8a2e2623c28450a5d6c213"
   },
   {
     "url": "initwithmarkdown/ypsx/indexall/index4equipment.html",
-    "revision": "9fd505e9b15e82cc9b7381e899a6240a"
+    "revision": "dfa47dfe87a587ea8161f5782f89d5f0"
   },
   {
     "url": "initwithmarkdown/zhsm/index.html",
-    "revision": "b64ba9c6b127178afb6a685203ae30a2"
+    "revision": "767dc61a2e53b4533b988ed9fd9ad002"
   },
   {
     "url": "logo/loading.gif",
@@ -642,68 +642,72 @@ self.__precacheManifest = [
     "revision": "07a481cf6281f8b181c353e44e97c565"
   },
   {
+    "url": "logo/WORK.jpeg",
+    "revision": "202cbaa46141b5baf90009bbdf46e3f0"
+  },
+  {
     "url": "resources/ypsx/files/define/backup.initwithmarkdown&dir/index.html",
-    "revision": "baa12f7f3c2b7a11422e94927d0f5b56"
+    "revision": "624a24e10d97da8f8a618044feaaf8b3"
   },
   {
     "url": "resources/ypsx/files/define/backup.initwithmarkdown&dir/夜班工作流入门withmarkdown/index.html",
-    "revision": "ab3629e3780376a4371a574550d21f1b"
+    "revision": "2fe1afdeff8ee85aac594d87ed3d9ba0"
   },
   {
     "url": "resources/ypsx/files/define/backup.initwithmarkdown&dir/夜班工作流入门withmarkdown/企业文化规章制度人员架构/企业文化与规章制度.html",
-    "revision": "671d1b82a78893f031e0fe1269016108"
+    "revision": "a567bcad0b8e537dd9df9eeace77b7b9"
   },
   {
     "url": "resources/ypsx/files/define/backup.initwithmarkdown&dir/夜班工作流入门withmarkdown/企业文化规章制度人员架构/公司杭州地区人员架构.html",
-    "revision": "b5e0054a4e6f8d145f87344756c44795"
+    "revision": "e42e9c8eff156b09bffb3e20e77d0a95"
   },
   {
     "url": "resources/ypsx/files/define/backup.initwithmarkdown&dir/夜班工作流入门withmarkdown/夜班工作时间工资和工作流程/index-夜班店长工作流程-新版(仅供参考).html",
-    "revision": "5ccb079e8c46cf40c5b3835980d1ca2d"
+    "revision": "4e66152a1e6f4d410b793017ddf4d9a2"
   },
   {
     "url": "resources/ypsx/files/define/backup.initwithmarkdown&dir/夜班工作流入门withmarkdown/夜班工作时间工资和工作流程/index-夜班店长工作流程-旧版.html",
-    "revision": "3afae37d82ee9f01ff5b70e76583b852"
+    "revision": "0298c03dc2d137f41d71e0adb5a54e5c"
   },
   {
     "url": "resources/ypsx/files/define/backup.initwithmarkdown&dir/夜班工作流入门withmarkdown/夜班工作时间工资和工作流程/夜班工作时间工资和工作流程.html",
-    "revision": "e3e68513b9378343d4c5f24a37b3f460"
+    "revision": "067dc11b78d106798b0f32be59e0fb06"
   },
   {
     "url": "resources/ypsx/files/define/backup.initwithmarkdown&dir/夜班工作流入门withmarkdown/设备以及其它注意事项(仅供参考)/设备以及其它注意事项.html",
-    "revision": "3bad7ce47098cb8fca6d3faa64efba05"
+    "revision": "796c72a407a9d27b4e4c1177f784379b"
   },
   {
     "url": "resources/ypsx/files/define/backup.initwithmarkdown&dir/夜班工作流入门withmarkdown/设备以及其它注意事项(仅供参考)/设备以及其它注意事项(仅供参考).html",
-    "revision": "e0110826b8faffa04e3d80d516e0c617"
+    "revision": "9fcfe499cfb0bdc995fa1d6e4274bb3b"
   },
   {
     "url": "resources/ypsx/files/define/backup.initwithmarkdown&dir/夜班工作流入门withmarkdown/附录-其它货物收货文件/其它货物接货流程.html",
-    "revision": "7c64e9e7b207311593f91ea3fd5a9f61"
+    "revision": "54334c59cb98757bc145764a3c29c710"
   },
   {
     "url": "resources/ypsx/files/define/backup.initwithmarkdown&dir/夜班工作流入门withmarkdown/附录-收银文件的/收银工作流程.html",
-    "revision": "d4419ce1c3dce1df3d3f00eb3beaef54"
+    "revision": "b9f8d20f342910c4367e9b4bcdf7067e"
   },
   {
     "url": "resources/ypsx/files/define/backup.initwithmarkdown&dir/夜班工作流入门withmarkdown/附录-收银文件的/收银机使用教程.html",
-    "revision": "ba778f195eaab9c20d5a018203b56eff"
+    "revision": "69dc7a22ec24ea82c026265e46f9fe8f"
   },
   {
     "url": "resources/ypsx/files/define/backup.initwithmarkdown&dir/夜班工作流入门withmarkdown/附录-水产文件/水产其它注意事项.html",
-    "revision": "aea60ce89673bf53aae6d7ad45f3aad2"
+    "revision": "0a59c7b195f99c0fa891731c3c50b56b"
   },
   {
     "url": "resources/ypsx/files/define/backup.initwithmarkdown&dir/夜班工作流入门withmarkdown/附录-肉豆文件/肉豆制品其它注意事项.html",
-    "revision": "0938bd0dd4e5965b0acadc089e808c9b"
+    "revision": "dddee9b32bc56b7369931b7640867ee9"
   },
   {
     "url": "resources/ypsx/files/define/backup.initwithmarkdown&dir/夜班工作流入门withmarkdown/附录-蔬菜文件/蔬菜保鲜手册.html",
-    "revision": "af022f53a6dea430e770c5b4f95e6fe9"
+    "revision": "dabefb974d493b3823d0573ca15a5616"
   },
   {
     "url": "resources/ypsx/files/define/backup.initwithmarkdown&dir/夜班工作流入门withmarkdown/附录-蔬菜文件/蔬菜其它注意事项.html",
-    "revision": "d64d5657864bb9272b087839f537ef27"
+    "revision": "e8a9b30bb8abfe22c2eb33dd0d723fc1"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

@@ -6,7 +6,7 @@ import disable_url_encode from "markdown-it-disable-url-encode"
 
 module.exports = {
   //首页title，描述
-  title: '业务和工作流程',
+  title: 'WORKSTYLE',
   description: 'Just playing around', 
   
   //如果你的网站会被部署到一个非根路径，你将需要在 .vuepress/config.js 中设置 base
