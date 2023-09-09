@@ -4,7 +4,7 @@
 https://vuepress.vuejs.org/zh/
 
 
-# os and runtime version
+# OS & RUNTIME VERSION
 
 admindeMacBook-Pro:~ admin$ uname -a
 Darwin admindeMacBook-Pro.local 16.7.0 Darwin Kernel Version 16.7.0: Thu Jun 15 17:36:27 PDT 2017; root:xnu-3789.70.16~2/RELEASE_X86_64 x86_64
@@ -29,8 +29,7 @@ vuepress/1.9.9 darwin-x64 node-v14.21.3
 
 
 
-# run vuepress
-
+# RUN & BUILD PROJECT
 
 > install vuepress
 
@@ -50,9 +49,10 @@ yarn add -D @vuepress/plugin-search  # OR npm install -D @vuepress/plugin-search
 >  config vuepress
 
 
-
 > run the workspace
+
 
 vuepress dev source
 
+vuepress build source    
 

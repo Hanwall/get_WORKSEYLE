@@ -139,3 +139,35 @@ Error: Failed to compile with errors.
     at Promise._settlePromise0 (/Users/admin/.config/yarn/global/node_modules/bluebird/js/release/promise.js:649:10)
     at Promise._settlePromises (/Users/admin/.config/yarn/global/node_modules/bluebird/js/release/promise.js:729:18)
     at Promise._fulfill (/Users/admin/.config/yarn/global/node_modules/bluebird/js/release/promise.js:673:18)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ℹ ｢wds｣: Project is running at http://0.0.0.0:8080/
+ℹ ｢wds｣: webpack output is served from /get_WORKSTYLE/
+ℹ ｢wds｣: Content not from webpack is served from /Users/admin/workspaces/get_WORKSTYLE/source/.vuepress/public
+ℹ ｢wds｣: 404s will fallback to /index.html
+node:events:498
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: ELOOP: too many symbolic links encountered, stat '/Users/admin/workspaces/get_WORKSTYLE/source/.vuepress/dist/dist'
+Emitted 'error' event on FSWatcher instance at:
+    at FSWatcher._handleError (/Users/admin/.config/yarn/global/node_modules/chokidar/index.js:260:10)
+    at FSWatcher.<anonymous> (/Users/admin/.config/yarn/global/node_modules/chokidar/lib/nodefs-handler.js:470:14)
+    at FSReqCallback.oncomplete (node:fs:198:21) {
+  errno: -62,
+  code: 'ELOOP',
+  syscall: 'stat',
+  path: '/Users/admin/workspaces/get_WORKSTYLE/source/.vuepress/dist/dist'
+}
