@@ -29,7 +29,7 @@ vuepress/1.9.9 darwin-x64 node-v14.21.3
 
 
 
-# RUN & BUILD PROJECT
+# PROJECT CONFIG & RUN & BUILD 
 
 > install vuepress
 

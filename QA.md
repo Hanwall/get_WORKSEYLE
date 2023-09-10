@@ -1,10 +1,8 @@
-# bug fix
-
-https://github.com/Hanwall/get_WORKSTYLE/issues
 
 
 
-# 目前发现的问题
+
+# NEED TO DO LISTS
 
 
 

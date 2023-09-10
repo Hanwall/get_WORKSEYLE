@@ -1,13 +1,16 @@
 <template>
   <div class="theme-container">
     <div class="theme-default-content">
-      <h1>404</h1>
+      <h1>404 - Not found 这是一个不存在的页面</h1>
 
       <blockquote>{{ getMsg() }}</blockquote>
 
       <RouterLink to="/">
         回到首页
       </RouterLink>
+      
+      <br/>
+      <img src="/logo/404_2.jpeg"></img>
     </div>
   </div>
 </template>
