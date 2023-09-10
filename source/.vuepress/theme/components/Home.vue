@@ -68,7 +68,7 @@
     />
 
 
-  <script>
+  <script type="text/javascript">
   function siteTime(){
         window.setTimeout("siteTime()", 1000);
         var seconds = 1000;
