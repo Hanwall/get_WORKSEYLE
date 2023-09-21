@@ -41,7 +41,7 @@ module.exports = {
 
 
     //导航栏LOGO
-    logo: '/logo/loading.gif',
+    logo: '/logo/default_avatar.gif',
 
 
     // 默认是 false, 设置为 true 来启用

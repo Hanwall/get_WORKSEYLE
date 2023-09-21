@@ -42,7 +42,7 @@
       <span id="sitetime"></span>
     </div>
     <Content v-else slot-key="footer" class="footer" />
-    <script src="/js/settime.js"></script>
+    <script src="/get_WORKSTYLE/js/settime.js"></script>
 
     
   </main>
