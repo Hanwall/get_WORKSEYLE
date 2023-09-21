@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo/WORK.jpeg
+heroImage: /logo/LIFE.jpeg
 heroText: WELCOME TO MY WORKFLOWS
 tagline: 
 actionText: GETTING STARTED
